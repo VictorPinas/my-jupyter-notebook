@@ -1,0 +1,4 @@
+Primeira linha escrita do arquivo feito com Python
+Segunda linha escrita com Python
+Essa é a terceira linha escrita do arquivo feito com Python
+.
